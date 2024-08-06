@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Maria",
+    "email": "maria@gmail.com",
+    "department": {
+      "id": 1,
+      "name": "Gestão"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "email": "bob@gmail.com",
+    "department": {
+      "id": 1,
+      "name": "Gestão"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Alex",
+    "email": "alex@gmail.com",
+    "department": {
+      "id": 2,
+      "name": "Informática"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ana",
+    "email": "ana@gmail.com",
+    "department": {
+      "id": 2,
+      "name": "Informática"
+    }
+  }
+]

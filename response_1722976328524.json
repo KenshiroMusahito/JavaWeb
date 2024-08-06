@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "name": "Alex",
+  "email": "alex@gmail.com",
+  "department": {
+    "id": 2,
+    "name": "Informática"
+  }
+}
